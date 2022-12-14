@@ -1,0 +1,3 @@
+cd HelloWorl.sh
+chmod +x HelloWrold
+./Helloworld.sh
