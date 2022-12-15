@@ -1,3 +1,7 @@
-#!/bin/sh
-# This is bash program to display Hello World
-echo " Hello World "
+#!/bin/bash
+
+while true
+do
+  echo "Hello world" >> hello.txt
+  sleep 10
+done
